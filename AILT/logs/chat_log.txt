@@ -1,0 +1,34 @@
+[2025-10-14 14:56:45] User: /help
+[2025-10-14 14:56:45] Bot: 📘 *Hướng dẫn sử dụng:*
+/homnay – Xem lịch học hôm nay
+/mai – Xem lịch học ngày mai
+/help – Hướng dẫn lệnh
+Hoặc hỏi tự nhiên: *Ngày mai có học không?*
+[2025-10-14 14:57:32] User: /homnay
+[2025-10-14 14:57:32] Bot: 📚 Lịch học Thứ Ba (14/10):
+🕗 13:30:00 — *Lập trình Python*
+📍 Phòng B204
+[2025-10-14 14:57:40] User: /mai
+[2025-10-14 14:57:40] Bot: 📚 Lịch học Thứ Tư (15/10):
+🕗 08:00:00 — *Mạng máy tính*
+📍 Online Zoom
+[2025-10-17 03:07:53] User: /homnay
+[2025-10-17 03:07:54] Bot: 📚 Lịch học Thứ Sáu (17/10):
+🕗 07:30:00 — *Tiếng Anh CN*
+📍 Phòng C201
+[2025-10-17 03:07:58] User: /mai
+[2025-10-17 03:07:58] Bot: 📅 Thứ Bảy (18/10) không có tiết học nào.
+[2025-10-17 03:08:30] User: /help
+[2025-10-17 03:08:30] Bot: 📘 *Hướng dẫn sử dụng:*
+/homnay – Xem lịch học hôm nay
+/mai – Xem lịch học ngày mai
+/help – Hướng dẫn lệnh
+Hoặc hỏi tự nhiên: *Ngày mai có học không?*
+[2025-11-11 22:46:12] User: /mai
+[2025-11-11 22:46:12] Bot: Không đọc được file lịch học 😢.
+[2025-11-11 23:39:14] User: /homnay
+[2025-11-11 23:39:14] Bot: Không đọc được file lịch học 😢.
+[2025-11-11 23:40:31] User: /mai
+[2025-11-11 23:40:31] Bot: 📚 Lịch học Thứ Tư (12/11):
+🕗 08:00:00 — *Mạng máy tính*
+📍 Online Zoom
